@@ -1,0 +1,34 @@
+
+.red{
+	color: red;
+}
+.error {
+    color: red;
+}
+
+.form-group.has-error input {
+    border-color: red;
+	border-width: 2.5px;
+}
+
+.green{
+	color: green;
+}
+
+.success{
+	color: green;
+}
+
+.form-group.has-success input{
+	border-color: green;
+	border-width: 2.5px;
+}
+.sectionPadd{
+	padding-top: 75px;
+}
+.button-pad{
+	padding-top: 10px;
+}
+.position-fixed{
+	padding-bottom: 200px;
+}
